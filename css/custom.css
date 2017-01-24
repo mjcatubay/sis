@@ -1,0 +1,21 @@
+/*------------------------------------------------------------------
+
+[Custom Stylesheet]
+
+
+Last change:	03/25/2013
+Assigned to:	You
+
+-------------------------------------------------------------------*/
+.score-box {
+	float: left;
+    height: 27px;
+    margin-right: 5px;
+    padding: 4px !important;
+    text-align: center;
+    width: 33px;
+}
+
+.align-center { text-align:center; }
+.align-left { text-align:left; }
+.align-right { text-align:right; }
